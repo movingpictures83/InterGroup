@@ -1,0 +1,2 @@
+Prefix plugins/InterGroup/example/
+Plugin InterGroup inputfile parameters.beta.txt outputfile intergroup.B.txt
